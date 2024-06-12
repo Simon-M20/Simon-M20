@@ -15,9 +15,9 @@
 - **Tools & Platforms:** Git, GitHub, VS Code, Figma, Webpack
 - **Others:** Responsive Design, RESTful APIs, Agile Methodologies
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
-![Simón's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon-M20&show_icons=true&theme=radical)
+![Simón's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon-M20&show_icons=true&theme=radical) -->
 
 ## 🔗 Connect with Me
 
