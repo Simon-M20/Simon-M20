@@ -1,7 +1,5 @@
 # Hey, I’m Simón Moreno 👋🏼
 
-![Profile Banner](path-to-your-banner-image)
-
 ## 👨‍💻 About Me
 
 - 👀 I’m a **Front-end Developer** passionate about creating interactive and dynamic web applications.
