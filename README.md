@@ -31,7 +31,7 @@
 - A simple PokeDex App with Modern UI created using React Js and Tailwind CSS and using API from PokeApi.
 - Technologies used: React, RESTFUL API, Tailwind CSS
 
-### [Project Name 2](https://github.com/Simon-M20/Phlox_e-Commerce)
+### [Phlox E-commerce](https://github.com/Simon-M20/Phlox_e-Commerce)
 - The "Phlox E-commerce" page is a sophisticated example of a modern online store, developed using HTML, CSS, and JavaScript
 - Technologies used: Vanilla JS, HTML, CSS
 
